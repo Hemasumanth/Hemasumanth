@@ -6,7 +6,7 @@
 
 ###
 
-<h6 align="left">I’m an AI and machine learning enthusiast passionate about building end-to-end production pipelines and delivering impactful AI solutions. Currently, I am completing my Master's in Artificial Intelligence at Northeastern University with a 4.0 GPA. Recently, I worked as a Machine Learning Engineer at Saint-Gobain, where I developed Retriever-Augmented Generation (RAG) models and deployed scalable pipelines to solve complex unstructured data problems, enhancing decision-making for R&D teams.<br><br>Previously, I held roles at AARP and Thomson Reuters, where I gained extensive experience in building recommendation systems, designing scalable ETL pipelines, and optimizing machine learning workflows to drive actionable insights across industries like media, retail, and enterprise solutions. These roles strengthened my expertise in AI-driven innovation and data science problem-solving.<br><br>My technical expertise includes Python, PyTorch, TensorFlow, LangChain, SQL, and cloud platforms like Azure, GCP, and AWS. I am particularly skilled in MLOps, scalable data architectures, and fine-tuning large language models (LLMs) for real-world applications.<br><br>Driven by a passion for technology and innovation, I thrive in collaborative environments where I can design, implement, and optimize AI-driven solutions. Feel free to explore my projects, and reach out to discuss opportunities for collaboration or new roles.<br><br>📧 Email: rasineni.h@northeastern.edu<br>💼 LinkedIn: linkedin.com/in/sumanthrnn<br>📂 GitHub: github.com/Hemasumanth</h6>
+<p align="left">I’m an AI and machine learning enthusiast passionate about building end-to-end production pipelines and delivering impactful AI solutions. Currently, I am completing my Master's in Artificial Intelligence at Northeastern University with a 4.0 GPA. Recently, I worked as a Machine Learning Engineer at Saint-Gobain, where I developed Retriever-Augmented Generation (RAG) models and deployed scalable pipelines to solve complex unstructured data problems, enhancing decision-making for R&D teams.<br><br>Previously, I held roles at AARP and Thomson Reuters, where I gained extensive experience in building recommendation systems, designing scalable ETL pipelines, and optimizing machine learning workflows to drive actionable insights across industries like media, retail, and enterprise solutions. These roles strengthened my expertise in AI-driven innovation and data science problem-solving.<br><br>My technical expertise includes Python, PyTorch, TensorFlow, LangChain, SQL, and cloud platforms like Azure, GCP, and AWS. I am particularly skilled in MLOps, scalable data architectures, and fine-tuning large language models (LLMs) for real-world applications.<br><br>Driven by a passion for technology and innovation, I thrive in collaborative environments where I can design, implement, and optimize AI-driven solutions. Feel free to explore my projects, and reach out to discuss opportunities for collaboration or new roles.<br><br>📧 Email: rasineni.h@northeastern.edu<br>💼 LinkedIn: linkedin.com/in/sumanthrnn<br>📂 GitHub: github.com/Hemasumanth</p>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h5 align="left">RAG Framework for Open-Source Documentation: Transforming Knowledge Retrieval</h5>
+<h4 align="left">RAG Framework for Open-Source Documentation: Transforming Knowledge Retrieval</h4>
 
 ###
 
@@ -26,7 +26,7 @@
 
 ###
 
-<h5 align="left">Automatic Numerical Entity Recognition for Finance:</h5>
+<h4 align="left">Automatic Numerical Entity Recognition for Finance:</h4>
 
 ###
 
@@ -34,7 +34,7 @@
 
 ###
 
-<h5 align="left">Real-Time Personalized Fashion Recommendation System:</h5>
+<h4 align="left">Real-Time Personalized Fashion Recommendation System:</h4>
 
 ###
 
@@ -42,7 +42,7 @@
 
 ###
 
-<h5 align="left">LLM's on domain specifics</h5>
+<h4 align="left">LLM's on domain specifics</h4>
 
 ###
 
@@ -115,7 +115,6 @@
 </div>
 
 ###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hemasumanth/Hemasumanth/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hemasumanth/Hemasumanth/output/github-snake.svg" />
